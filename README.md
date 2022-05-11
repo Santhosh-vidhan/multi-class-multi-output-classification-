@@ -9,5 +9,5 @@ An experimental Multi-Ouput Multi-Class classification MLP model trained over in
          The label names should be clearly indicated for training purpose
      
      
-   Though it's an Open Source Project, pull requests are always welcome :)
+    Though it's an Open Source Project, pull requests are always welcome :)
          
