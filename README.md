@@ -1,2 +1,2 @@
 # multi-class-multi-output-classification-
-An experimental Multi-Ouput Multi-Class classification model tested over industry dataset
+An experimental Multi-Ouput Multi-Class classification model trained over industry dataset
